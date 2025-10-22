@@ -1,0 +1,30 @@
+timestamp,recipient,subject,status,error_message,day_of_week
+20/10/2025 09:12:14,alex@designflow.io,Welcome to Flow!,Sent,,Monday
+20/10/2025 10:45:37,sarah@greenco.nl,Demo confirmation,Sent,,Monday
+20/10/2025 11:03:50,info@urbanbuild.es,Follow-up: Project details,Failed,"{""type"":""SMTPError"",""message"":""Mailbox not found""}",Monday
+20/10/2025 13:20:18,james@coffeecraft.pt,Proposal update,Sent,,Monday
+21/10/2025 08:15:42,lisa@smartenergy.de,Newsletter October,Sent,,Tuesday
+21/10/2025 09:03:53,emma@blueleaf.be,Product demo link,Sent,,Tuesday
+21/10/2025 09:05:32,info@hoteleco.it,Trial expired notice,Sent,,Tuesday
+21/10/2025 10:17:44,andrew@techbridge.se,Welcome email,Sent,,Tuesday
+21/10/2025 10:55:01,maria@vastint.com,Follow-up meeting invite,Sent,,Tuesday
+21/10/2025 11:10:28,hello@onthatflow.com,Automation setup guide,Failed,"{""type"":""RuntimeError"",""message"":""Invalid recipient""}",Tuesday
+21/10/2025 12:34:56,daniel@porthouse.dk,Thank you for joining,Sent,,Tuesday
+21/10/2025 13:47:20,support@greenco.nl,Support ticket response,Sent,,Tuesday
+21/10/2025 14:22:41,paul@vastint.com,Newsletter reminder,Sent,,Tuesday
+21/10/2025 15:11:03,contact@bioconstruct.eu,Proposal summary,Sent,,Tuesday
+22/10/2025 08:20:17,sophie@onthatflow.com,Demo reminder,Sent,,Wednesday
+22/10/2025 09:44:10,alex@designflow.io,Feedback request,Sent,,Wednesday
+22/10/2025 10:23:54,lucas@greenco.nl,Weekly digest,Sent,,Wednesday
+22/10/2025 11:30:42,marketing@hoteleco.it,Automation report,Sent,,Wednesday
+22/10/2025 13:09:18,paula@bioconstruct.eu,Trial follow-up,Sent,,Wednesday
+22/10/2025 14:55:36,info@techbridge.se,Invoice pending notice,Failed,"{""type"":""SMTPError"",""message"":""Quota exceeded""}",Wednesday
+23/10/2025 08:12:43,maria@vastint.com,Monthly summary,Sent,,Thursday
+23/10/2025 09:22:14,hello@onthatflow.com,Case study release,Sent,,Thursday
+23/10/2025 10:45:25,lisa@smartenergy.de,Survey invitation,Sent,,Thursday
+23/10/2025 11:35:54,daniel@porthouse.dk,Follow-up call,Sent,,Thursday
+23/10/2025 13:50:10,alex@designflow.io,Product update,Sent,,Thursday
+23/10/2025 14:12:25,support@greenco.nl,Support resolved,Sent,,Thursday
+23/10/2025 15:40:32,andrew@techbridge.se,Invoice confirmation,Sent,,Thursday
+23/10/2025 17:05:17,sarah@greenco.nl,Thank-you message,Sent,,Thursday
+23/10/2025 18:11:00,james@coffeecraft.pt,Feedback summary,Sent,,Thursday
