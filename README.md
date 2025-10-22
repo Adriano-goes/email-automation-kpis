@@ -1,4 +1,6 @@
 ##  Summary
+![Email Automation KPIs Dashboard](PowerBI_Screenshot.pdf)
+
 - Google Form writes new leads to Google Sheets.
 - Make watches the sheet, sends emails via Gmail, and logs outcomes (Sent / Failed) to an `Automation_Log` sheet.
 - Power BI visualizes KPIs: totals, average/day, success & failure rate, unique recipients, daily trend, and a color-coded event log.
