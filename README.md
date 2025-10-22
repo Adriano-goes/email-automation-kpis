@@ -1,5 +1,5 @@
 ##  Summary
-PowerBI_Screenshot.png
+![Power BI Dashboard Screenshot](PowerBI_Screenshot.png)
 
 - Google Form writes new leads to Google Sheets.
 - Make watches the sheet, sends emails via Gmail, and logs outcomes (Sent / Failed) to an `Automation_Log` sheet.
