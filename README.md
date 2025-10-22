@@ -1,5 +1,5 @@
 # Email Automation KPIs - v1.0
-![Power BI Dashboard Screenshot](images/PowerBI_Screenshot.png)
+![Power BI Dashboard Screenshot](PowerBI_Screenshot.png)
 
 ## Summary
 
